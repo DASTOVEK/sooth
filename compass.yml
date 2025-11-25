@@ -1,0 +1,16 @@
+name: sooth
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/c03ea87a-019d-4c46-b028-a51f21c3810c
+description: Sooth is a simple stochastic predictive model.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/sooth
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
